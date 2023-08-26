@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full stack development<br>👯 I believe  in collaborative learning<br>🌱 I’m currently brushing my DSA and dev<br>
+🔭 Harnessing the power of code to build bridges between imagination and implementation.
 
 
 ## 🌐 Socials:
